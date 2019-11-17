@@ -3,7 +3,7 @@ A PHP client for the triplink system. This focus on blocking IPs which tried to 
 
 # Installation
 ```shell
-wget https://raw.githubusercontent.com/JojiiOfficial/TripPHP/master/triplinkreport.php -o blockIPs.php
+wget https://raw.githubusercontent.com/JojiiOfficial/TripPHP/master/triplinkreport.php -O blockIPs.php
 ```
 Put the downloaded file in your www directory and rename it to an obvious name like `shell.php` or `/phpmyadmin/index.php`.<br>
 You can additionally create links to this file from other folders to catch more IPs.<br>
