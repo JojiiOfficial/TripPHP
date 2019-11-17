@@ -2,6 +2,9 @@
 A PHP client for the triplink system. This focus on blocking IPs which tried to enumerate through your webserver files (eg `phpmyadmin`,`phpMyAdmin`,`mysql`,`MySql`,`shell.php`,`phpinfo.php` ...etc)<br>
 
 # Installation
+### Requirements
+- PHP (php7.3)<br>
+- PHP curl (php7.3-curl)<br>
 ```shell
 wget https://raw.githubusercontent.com/JojiiOfficial/TripPHP/master/triplinkreport.php -O blockIPs.php
 ```
